@@ -1,0 +1,21 @@
+body{
+    background: #000;
+}
+.navbar {
+    background: #000;
+    color: #ffffff;
+    height: 32px;
+    margin-left: 10px;
+    font-size: 18px;
+    alignment: center;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+p{
+
+    border-bottom: 1px;
+    border-style: outset;
+    border-color: aquamarine;
+}
